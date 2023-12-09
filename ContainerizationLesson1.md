@@ -39,4 +39,4 @@
 * sudo unshare --net --pid --fork --mount-proc /bin/bash
 ![picture](images/Comtain7.png)
 ![picture](images/contain6.png)
-### Студент GeekBrains Черняков Дмитрий урок 1 семинар
+### Студент GeekBrains Симбирев Валерий урок 1 семинар
